@@ -1,5 +1,5 @@
 '''
-Internship 
+Internship Task - 1
 Creator :: Avijit Dey
 Title :: To-Do List in Python using Tkinter
 Date :: 05/09/2023
